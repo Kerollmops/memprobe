@@ -1,2 +1,2 @@
-# template-clap-anyhow
-A basic template for a program that uses clap and anyhow
+# memprobe
+A tool to probe the memory usage of a program

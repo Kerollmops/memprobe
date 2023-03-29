@@ -1,8 +1,11 @@
 [package]
-name = "template-clap-anyhow"
+name = "memprobe"
+description = "A tool to probe the memory usage of a program"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
 anyhow = "1.0.70"
 clap = {version = "4.2.0", features = ["derive"] }
+csv = "1.2.1"
+sysinfo = "0.28.4"
