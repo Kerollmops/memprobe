@@ -1,8 +1,11 @@
 [package]
 name = "memprobe"
 description = "A tool to probe the memory usage of a program"
+documentation = "https://docs.rs/memprobe"
+repository = "https://github.com/Kerollmops/memprobe"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
 
 [dependencies]
 anyhow = "1.0.70"
